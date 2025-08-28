@@ -1,0 +1,5 @@
+pandas
+praw
+google-api-python-client
+langdetect
+python-dotenv
